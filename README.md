@@ -6,9 +6,9 @@ There are two ways you can run the code in this notebook. If you already are fam
 
 If you are newer to Python, you can use the MyBinder link I created below which will enable you to interact with the notebook on a hosted server. Please note that given all of the libraries (a library is a term for software packages) required, it may take several minutes to launch.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/azbones/image-recognition/HEAD)
+Click this button to launch notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/azbones/image-recognition/HEAD)
 
-Using either method, once the Jupyter environment is launched, click on the notebook file called "tf_image_recognition.ipynb". This will launch an interactive session where you can run and modify the code I created. This (link)[https://www.dataquest.io/blog/jupyter-notebook-tutorial/] has a beginner's tutorial for using notebooks.
+Using either method, once the Jupyter environment is launched, click on the notebook file called "tf_image_recognition.ipynb". This will launch an interactive session where you can run and modify the code I created. This [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) has a beginner's tutorial for using notebooks.
 
 <img src="mnist/notebook.png"/>
 
