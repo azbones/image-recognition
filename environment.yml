@@ -2,6 +2,7 @@ name: image-environment
 channels:
   - conda-forge
 dependencies:
+  - python
   - numpy
   - tensorflow
   - matplotlib
