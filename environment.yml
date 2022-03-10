@@ -9,3 +9,5 @@ dependencies:
   - pandas
   - scikit-learn
   - rise
+  - pip:
+    - jupyter-contrib-nbextensions
