@@ -1,6 +1,6 @@
 ## Image Recognition using TensorFlow and Deep Neural Networks
 
-This repository has a [Jupyter Notebook](https://jupyter.org/) that contains the code to allow you to build and test a neural network model that can recognize hand written numbers. Some of you had asked in class about how such classification models worked, so I built this new notebook that you can run without having to install Python.
+This repository has a [Jupyter Notebook](https://jupyter.org/) that contains the code to allow you to build and test a neural network model that can recognize hand written numbers. 
 
 There are two ways you can run the code in this notebook. If you already are familiar with Python, you can follow this [Jupyter Notebook](https://jupyter.org/) link to install all the required packages and launch the notebook on your local computer.
 
