@@ -10,7 +10,7 @@ dependencies:
   - pandas
   - scikit-learn
   - rise
-  - opencv-python-headless
+  - opencv
   - pip:
     - jupyter-contrib-nbextensions
-    
+
